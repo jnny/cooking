@@ -3,6 +3,7 @@ h1. Samosa Soup
 *Based on Burma Superstar's cookbook*
 
 **Ingredients:**
+
 *Soup:*
 - 1 tsp cumin seeds
 - 1 tsp black mustard seeds
@@ -27,3 +28,10 @@ h1. Samosa Soup
 - 2 cups shredded cabbage
 - 1 cup cilantro
 - 1 lime, cut into wedges
+
+**Instructions**
+* Toast the cumin and mustard seeds til mustard seeds begin to pop, grind in spice grinder (or mortar and pestle it)
+* In a large heavy pot, heat the oil and drop in chiles, bay leaves, and mustard-cumin spice mix. Let fry for about a minute.
+* Stir in onions and garlic, on high for ~5 minutes.
+* Add paprike, turmeric and salt.
+* Add 1/2 cup water to toasted chickpea flour in a bowl, stir to remove clumps.
