@@ -5,9 +5,9 @@ First, prep the crust:
 * 1 TBSP sugar
 * 5 TBSP melted butter
 
-Mix in a blender, food processor, or crush it up. 
-Grease and line a springform plan, pat down with a drinking glass
-Bake at roughly 10 minutes at 250F or 180C
+- Mix in a blender, food processor, or crush it up. 
+- Grease and line a springform plan, pat down with a drinking glass
+- Bake at roughly 10 minutes at 250F or 180C
 
 
 * 700G cream cheese (2.5 packs)
