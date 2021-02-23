@@ -3,7 +3,7 @@ Stolen succinctly from Alton Brown:
 =Ingredients=
 * 3 eggs
 * 1 tsp mayo
-* 1 tsp harissa
+* 1 tsp [harissa](harissa.md)
 * salt to taste
 * butter!
 
