@@ -1,3 +1,5 @@
+I'm told harissa + mayo is better, by harissa yogurt-haters :)
+
 **Ingredients:**
 - 1 tablespoon [harissa](harissa.md) paste
 - 1 cup greek yogurt

@@ -6,8 +6,8 @@ h1. Garem Masala
 - 40g cumin seeds
 - 25g coriander seeds
 - 20g cardamom seeds
-20g black peppercorn
-15g cloves
--15g ground mace
+- 20g black peppercorn
+- 15g cloves
+- 15g ground mace
 
 *Variations:* add chiles, black cumin seeds, fennel seeds, ajawan seeds
