@@ -1,4 +1,5 @@
-= Lohikeitto (Finnish Salmon Soup =
+# Lohikeitto (Finnish Salmon Soup)
+_swiped from [Andong](https://www.youtube.com/watch?v=_I7LuKQ8GZ4&t=403s)_
 
 In a pot on high heat:
 * 1,5l water
