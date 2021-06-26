@@ -10,9 +10,12 @@ All kudos to the incredibly charming [Nadia Gilbert](https://www.youtube.com/wat
 * bunch of parley
 * cumin seeds
 * olive and/or grapeseed oil 
+* juice of half a lemon
+* for scooping: toasted pita bread or slightly 
+* (optional) [chile oil](https://www.youtube.com/watch?v=zTViKsyKL58)
 
 ## Instructions
-* (Optional) Soak a quartered purple or white onion in vinegar while you prep (for dipping with!)
+* (Optional) Soak a quartered purple or white onion soaked in olive oil while you prep (for dipping with!)
 * Preheat oven to ~400 F
 * Spread your cherry tomatoes on an oven pan covered in parchment paper, drizzle with olive oil and sprinkle with salt, then pop in oven for 15-20 mins
 * Chop the Roma tomato into a mince, and dice the parsley - prep done!
