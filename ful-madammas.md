@@ -3,7 +3,7 @@
 All kudos to the incredibly charming [Nadia Gilbert](https://www.youtube.com/watch?v=IQSWEt4l5xE)!!
 
 ## Ingredients
-* 2 cans fava beans
+* 1 can fava beans (check your local middle eastern grocery for best quality, though they should be available in supermarkets also)
 * 1 Roma tomato
 * 8-12 cherry tomatoes
 * 3 cloves of garlic
