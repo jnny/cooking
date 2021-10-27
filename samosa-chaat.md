@@ -2,7 +2,7 @@
 
 The most delicious Indian 'chaat' snack - basically an exploded samosa.
 
-**Recipe transcriped from [this video](https://www.youtube.com/watch?v=Fuaf2BuzGAs]**
+_Recipe transcriped from [this video](https://www.youtube.com/watch?v=Fuaf2BuzGAs)_
 
 ## Ingredients
 * 2-3 large samosas
