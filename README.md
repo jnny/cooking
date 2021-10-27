@@ -1,7 +1,7 @@
 # cooking
 stashing best recipes as they improve, fermentation log, essential inventory etc
 
-==Table of Contents==
+# Table of Contents
 * Ceviche
 * Cheesecake
 * Ful Madammas
