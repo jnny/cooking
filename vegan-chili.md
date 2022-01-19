@@ -1,8 +1,8 @@
-= Vegan Chili For All! =
+# Vegan Chili For All! 
 
 This recipe can easily be expanded to feed 50-100 people en masse - as it stands, we quadruple the following and freeze the extra:
 
-== Ingredients ==
+## Ingredients 
 * 2 Tbsp olive oil
 * 1 medium yellow onion, chopped
 * 1 large red pepper
@@ -19,13 +19,13 @@ This recipe can easily be expanded to feed 50-100 people en masse - as it stands
 - 1 tsp coarse salt
 - 1 cup spicy refried vegetarian beans
 
-=== Toppings ===
+### Toppings
 * 2 cups shredded monteray jack or smoked cheddar cheese
 * chopped scallions (green onions), white and green
 * Diced fresh seeded plum tomato
 * Blue and red corn tortilla chips for dipping
 
-== Instructions ==
+## Instructions 
 1. Over moderate heat, add oil to a deep pot and combine onion, peppers, and garlic. 
 2. Saute for 3 to 5 mins to soften vegetables. 
 3. Deglaze pan with beer/broth, add tomatoes, black beans, red kidney beans, and stir to combine.
