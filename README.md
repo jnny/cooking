@@ -2,36 +2,41 @@
 stashing best recipes as they improve, fermentation log, essential inventory etc
 
 # Table of Contents
-* Ceviche
-* Cheesecake
-* Ful Madammas
-* Gapacho
-* Hot Chocolate
-* Hummus
-* Masala Latkes
-* Raspberry Rhubarb Crumble
-* Salmon Soup
-* Samosa Chaat
-* Samosa Soup
-* Scrambled Eggs
-* Vegan Chili
-* Vegan Larb
+* [Vegan Ceviche](ceviche.md)
+* [Cheesecake](cheesecake.md)
+* [Ful Madammas](ful-madammas.md)
+* [Gapacho](gazpacho.md)
+* [Ginger Beer Float](gingerbeer-float.md)
+* [Hot Chocolate](hotchocolate.md)
+* [Hummus](hummus.md)
+* [Masala Latkes](masala-latkes.md)
+* [Raspberry Rhubarb Crumble](raspberry-rhubarb-crumble.md)
+* [Salmon Soup](salmon-soup.md)
+* [Samosa Chaat](samosa-chaat.md)
+* [Samosa Soup](samosa-soup.md)
+* [Scrambled Eggs](scrambledeggs.md)
+* [Vegan Chili](vegan-chili.md)
+* [Vegan Larb](vegan-larb.md)
 ## Ferments
-* Ginger Bug
-* Kombucha
+* [Ginger Bug](ferments/gingerbug.md)
+* [Kombucha](ferments/kombucha.md)
 ## Sauces
-* Chili Paste
-* Green Chutney
-* Harissa
-* Harissa Yogurt
-* Salsa
-* Ssamjang
+* [Chili Paste](sauces/chilipaste.md)
+* [Green Chutney](sauces/green-churney.md)
+* [Harissa](sauces/harissa.md)
+* [Harissa Yogurt](sauces/harissa-yogurt.md)
+* [Salsa](sauces/salsa.md)
+* [Ssamjang](sauces/ssamjang.md)
 ## Spice Mixes
-* Barbere
-* Chaat Masala
-* Chinese Five Spice
-* Garam Masala
-* Zahtar
+* [Berbere](spicemixes/berbere.md)
+* [Chaat Masala](spicemixes/chaat-masala.md)
+* [Chinese Five Spice](spicemixes/fivespice.md)
+* [Garam Masala](spicemixes/garammasala.md)
+* [Mitmita](spicemixes/mitmita.md)
+* [Paanch Phoran](spicemixes/paanch-phoran.md)
+* [Ras el Hanout](spicemixes/ras-el-hanout.md)
+* [Shichimi Togarashit](spicemixes/shichimi-togarashi.md)
+* [Zahtar](spicemixes/zahtar.md)
 
 # Inspirations
 My favorite chefs / foodie YouTubers, in no particular order - just try em out and fall in love :) :
