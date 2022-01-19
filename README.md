@@ -5,7 +5,7 @@ stashing best recipes as they improve, fermentation log, essential inventory etc
 * [Vegan Ceviche](ceviche.md)
 * [Cheesecake](cheesecake.md)
 * [Ful Madammas](ful-madammas.md)
-* [Gapacho](gazpacho.md)
+* [Gazpacho](gazpacho.md)
 * [Ginger Beer Float](gingerbeer-float.md)
 * [Hot Chocolate](hotchocolate.md)
 * [Hummus](hummus.md)
