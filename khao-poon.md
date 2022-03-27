@@ -3,10 +3,12 @@ Prep Chicken & Stock
 * Add: bag of galangal, lemongrass, kefir lime leaves, and 1 TBSP salt
 
 Red Curry Paste
-* 15 dried red chiles, soaked
-* 3-4 shallots
+* 15 dried red chiles, soaked in warm water
+* 4 shallots
 * 15 cloves garlic
 * 1-2 tsp shrimp paste
+* Toasted and blended: 2tsp Coriander Seeds, 2tsp Cumin Seeds, 1tsp Black Peppercorns, 1tsp White Peppercorns
+* Zest of 1 lime
 
 Soup Base
 * high-temp oil or preferably coconut oil, 2 TBSP
