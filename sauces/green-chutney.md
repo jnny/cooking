@@ -7,11 +7,12 @@ _Recipe from [SideChef](https://www.sidechef.com/recipes/972/spicy_green_chutney
 ## Ingredients
 * 1 bunch cilantro
 * 1 bunch fresh mint
-* 1 bunch parsley
+* 1 bunch parsley (optional)
 * Garlic cloves
 * Green chiles
-* Touch of salt & black pepper
-* Good squeeze of lemon juice
+* Touch of salt, black pepper and cumin
+* Good squeeze of lemon and/or lime juice
+* 1 TBSP plain whole milk yogurt
 * Touch of water when blending
 
 ## Instructions
