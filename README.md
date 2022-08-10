@@ -15,10 +15,12 @@ stashing best recipes as they improve, fermentation log, essential inventory etc
 * [Samosa Soup](samosa-soup.md)
 * [Gazpacho](gazpacho.md)
 * [Salmon Soup](salmon-soup.md)
-## Drinks
+* [Khao Poon](khao-poon.md)
+* [Khao Suey](khao-suey.md)
+## Drinks & Desserts
 * [Ginger Beer Float](gingerbeer-float.md)
 * [Hot Chocolate](hotchocolate.md)
-## Desserts
+* [Passion-Ginger Mocktail](passionginger-mocktail.md )
 * [Raspberry Rhubarb Crumble](raspberry-rhubarb-crumble.md)
 * [Cheesecake](cheesecake.md)
 
