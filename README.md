@@ -1,25 +1,28 @@
 # cooking
 stashing best recipes as they improve, fermentation log, essential inventory etc
 
-# Table of Contents
-* [Vegan Ceviche](ceviche.md)
-* [Cheesecake](cheesecake.md)
+# Dishes
 * [Ful Madammas](ful-madammas.md)
-* [Gazpacho](gazpacho.md)
-* [Ginger Beer Float](gingerbeer-float.md)
-* [Hot Chocolate](hotchocolate.md)
 * [Hummus](hummus.md)
 * [Masala Latkes](masala-latkes.md)
-* [Raspberry Rhubarb Crumble](raspberry-rhubarb-crumble.md)
-* [Salmon Soup](salmon-soup.md)
 * [Samosa Chaat](samosa-chaat.md)
-* [Samosa Soup](samosa-soup.md)
 * [Scrambled Eggs](scrambledeggs.md)
+* [Vegan Ceviche](ceviche.md)
 * [Vegan Chili](vegan-chili.md)
 * [Vegan Larb](vegan-larb.md)
-## Ferments
-* [Ginger Bug](ferments/gingerbug.md)
-* [Kombucha](ferments/kombucha.md)
+## Soups
+* [Laksa](laksa.md)
+* [Samosa Soup](samosa-soup.md)
+* [Gazpacho](gazpacho.md)
+* [Salmon Soup](salmon-soup.md)
+## Drinks
+* [Ginger Beer Float](gingerbeer-float.md)
+* [Hot Chocolate](hotchocolate.md)
+## Desserts
+* [Raspberry Rhubarb Crumble](raspberry-rhubarb-crumble.md)
+* [Cheesecake](cheesecake.md)
+
+# Components
 ## Sauces
 * [Chili Paste](sauces/chilipaste.md)
 * [Green Chutney](sauces/green-churney.md)
@@ -37,6 +40,9 @@ stashing best recipes as they improve, fermentation log, essential inventory etc
 * [Ras el Hanout](spicemixes/ras-el-hanout.md)
 * [Shichimi Togarashit](spicemixes/shichimi-togarashi.md)
 * [Zahtar](spicemixes/zahtar.md)
+## Ferments
+* [Ginger Bug](ferments/gingerbug.md)
+* [Kombucha](ferments/kombucha.md)
 
 # Inspirations
 My favorite chefs / foodie YouTubers, in no particular order - just try em out and fall in love :) :
