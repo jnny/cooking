@@ -24,6 +24,7 @@ Produce:
 - 1 tbsp ginger
 - 1 tbsp fresh turmeric
 - Boiled eggs
+- Macademias (4-5)
 
 Pantry:
 - 1 tbsp coriander seeds (ground in spice grinder)
@@ -35,7 +36,7 @@ Pantry:
 Process
 - Soak the dried chilis in hot water to soften (after removing stems and seeds)
 - Shell the prawns and add heads and shells to pot for making stock. Add 4 cups water and bring to a boil, then simmer for 45 mins- 1 hr w/ lid on.
-- Meanwhile, make the laksa spice paste by adding the chilis, garlic, galangal, lemongrass, turmeric, shallots, shrimp paste, dried shrimps, and fresh-ground coriander to a food processor and blending well. Add some of the reserved chili water if a more pastelike consistency is needed.
+- Meanwhile, make the laksa spice paste by adding the chilis, garlic, galangal, lemongrass, turmeric, shallots, shrimp paste, dried shrimps, macademias, and fresh-ground coriander to a food processor and blending well. Add some of the reserved chili water if a more pastelike consistency is needed.
 - Drain the prawn stock into a separate bowl and dispose of the prawn shells. Clean the pot, then add oil and once hot, the laksa paste. Saute with the oil until a separation occurs between the oil and the paste becomes drier. 
 - Add a can of coconut milk, wait for the mixture to begin to bubble, then add the prawn stock, fish sauce and brown sugar.
 - Add tofu puffs and laksa leaves, allow mixture to come to a boil, then stick a lid on it.
