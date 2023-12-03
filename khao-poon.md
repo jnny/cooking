@@ -3,7 +3,7 @@ Prep Chicken & Stock
 * Add: bag of galangal, lemongrass, kefir lime leaves, and 1 TBSP salt
 
 Red Curry Paste
-* 15 dried red chiles, soaked in warm water
+* 10 dried red chiles, soaked in warm water
 * 4 shallots
 * 15 cloves garlic
 * 1-2 tsp shrimp paste
@@ -28,5 +28,4 @@ Toppings
 * Shallots, minced
 
 Instructions
-* 
-* Add water and residual chicken stock to desired consistency
+* Add ~6 cups water and residual chicken stock to desired consistency
