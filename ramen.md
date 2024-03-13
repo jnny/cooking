@@ -13,9 +13,8 @@ should be cooked the day before:
 
 ### ramen eggs:
 1) hard-boil for ~8 mins, then drop into ice bath
-
-save the pork juices!!
-cool em down and pour over ramen eggs (eg in an ice bath). seal.
+2) save the pork juices!!
+3) cool em down and pour over ramen eggs (eg in an ice bath). seal.
 
 ## Phase 2
 
