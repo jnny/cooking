@@ -6,8 +6,8 @@ _via https://youtu.be/xeo7SVeU7Dw:_
 ### chashu 
 
 should be cooked the day before:
--- to a small pot, add: 
-  1) pork shoulder and simmer 20 mins
+-- to a small pot: 
+  1) add enough water to cover pork shoulder and simmer 20 mins
   2) add 1 cup soy sauce, 3oz dark soy sauce (tamari), 1 cup cooking wine, handful of green onions
   3) seal with a drop-lid and allow to simmer 2-3 hrs
 
