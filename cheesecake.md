@@ -22,3 +22,6 @@ First, prep the crust:
 1. beat sour cream for half a minute, add sugar?
 2. add the combo whisked of heavy cream, eggs, and ?
 3. DAMNIT JENNY, REMEMBER REST OF RECIPE!?
+
+# Links
+* https://www.allrecipes.com/recipe/155222/philadelphia-classic-cheesecake/ 
