@@ -17,6 +17,7 @@ Soup Base
 * Add peeled sticks of bashed lemongrass x 2
 * Bag of Galangal, sliced thinly
 * Add red curry paste to taste (2 TBSP - 1 cup)
+* 1 tbsp fish sauce
 
 Toppings
 * Red and green gabbage, slivered
